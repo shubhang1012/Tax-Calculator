@@ -37,6 +37,8 @@ This is a simple tax calculator implemented in JavaScript. It calculates the ove
    - Open the files in a code editor and run the files in a web browser .
    - Since we are using bootstrap maintain a good network connection .
    - Once the files have succesfully executed you can use the tax calculator easily.
+   - 
+# TO ACCESS THE WEBPAGE CLICK HERE - https://taxcalculatorforfyle.netlify.app/
 
   # Web Page Snippets.
   ![image](https://github.com/shubhang1012/Tax-Calculator/assets/73165623/a34772e3-95a6-4f26-a21e-1aa11d771238)
